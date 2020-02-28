@@ -3,6 +3,8 @@
  */
 //package Lab1;
 // gradle automatically added the above line which will mess things up in this lab.
+
+// 19-20Spr Comp3111 Lab01Git by Kwok Wang Chi 20619962
 public class Library {
 	
 	public static void main(String arg[]) {
